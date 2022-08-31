@@ -1,5 +1,6 @@
 # nico's readme
-this is the readme for my school account i guess
+this is the readme for my school account i guess 
+i'm in 9th grade and i'm from Washington, DC
 
 
 <!--
