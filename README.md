@@ -1,4 +1,6 @@
-### Hi there 👋
+# nico's readme
+this is the readme for my school account i guess
+
 
 <!--
 **nvieco26/nvieco26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
