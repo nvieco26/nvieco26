@@ -1,7 +1,7 @@
 # nico's readme
 this is the readme for my school account i guess. 
 i'm in 9th grade and i'm from Washington, DC
-
+![alt text] (https://upload.wikimedia.org/wikipedia/commons/d/d2/US_Navy_030926-F-2828D-307_Aerial_view_of_the_Washington_Monument.jpg)
 
 <!--
 **nvieco26/nvieco26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
