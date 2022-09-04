@@ -1,7 +1,8 @@
 # nico's readme
 this is the readme for my school account i guess. 
 i'm in 9th grade and i'm from Washington, DC 
-![alt text](https://en.wikipedia.org/wiki/Washington_Monument)
+![TAM_0202-81297ba1c3fe4922bcf72bc9ad61120b](https://user-images.githubusercontent.com/112539079/188311074-e0a9f414-702c-4a31-bc4a-858f9455024f.jpg)
+
 
 
 <!--
